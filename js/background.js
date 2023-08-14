@@ -1,8 +1,11 @@
 const images=[
-    "1636084017.jpg",
-    "941907348493074433.png",
-    "download.jpg",
-    "KakaoTalk_20220707_195349823.png",
+    "Loading6.png",
+"Loading7.png",
+"Loading8.png",
+"Loading9.png",
+"Loading10.png",
+"Loading11.png",
+    "Loading12.png",
 ]
 const chosenImage=images[Math.floor(Math.random()*images.length)];
 
