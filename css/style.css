@@ -3,7 +3,7 @@
 }
 
 body{
-    color:gray;
+    color:white;
 }
 img{
     width:100vw;
@@ -12,4 +12,14 @@ img{
     top:0px;
     opacity: 1;
     z-index: -1;
+}
+
+#clock{
+    display:flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+    padding: 10px;
+    position:absolute;
+    font-size: 32px;
+    background: rgba(0,0,0,0.1);
 }
